@@ -1,0 +1,184 @@
+{
+    "ACTIVO": {
+        "DISPONIBLE": {
+            "Caja": "fila 1",
+            "Bancos y Corresponsales": "fila 2",
+            "Canje": "fila 3",
+            "Otros": "fila 4"
+        },
+        "FONDOS INTERBANCARIOS": {},
+        "INVERSIONES NETAS DE PROVISIONES": {
+            "Inversiones a Valor Razonable con Cambios en Resultados": "fila 7",
+            "Inversiones a valor razonable con cambios en resultados": "fila 7",
+            "Negociables para Intermediacion Financiera": "fila 7",
+
+            "Inversiones Disponibles para la Venta": "fila 8",
+            "Negociables Disponibles para la Venta": "fila 8",
+
+            "Inversiones a Vencimiento": "fila 9",
+            "Financieras a Vencimiento": "fila 9",
+
+            "Inversiones en Subsidiarias Asociadas y Negocios Conjuntos": "fila 10",
+            "Inversiones en subsidiarias y asociadas": "fila 10",
+            "Permanentes": "fila 10",
+            
+            "Inversiones en commodities":"fila 11",
+            
+            "Provisiones": "fila 12"
+        },
+        "CREDITOS NETOS DE PROVISIONES Y DE INGRESOS NO DEVENGADOS": {
+            "Vigentes": "fila 14",
+            "Cuentas corrientes":"fila 15",
+            "Tarjetas de Credito": "fila 16",
+            "Descuentos": "fila 17",
+            "Factoring": "fila 18",
+            "Prestamos": "fila 19",
+            "Arrendamiento Financiero": "fila 20",
+            "Hipotecarios para Vivienda": "fila 21",
+            "Comercio exterior":"fila 22",
+            "Creditos por Liquidar": "fila 23",
+            "Otros": "fila 24",
+            "Refinanciados y Reestructurados": "fila 25",
+            "Refinanciados y Reestruturados": "fila 25",
+            "Atrasados": "fila 26",
+            "Vencidos": "fila 27",
+            "En Cobranza Judicial": "fila 28",
+            "Provisiones": "fila 29",
+            "Intereses y Comisiones no Devengados": "fila 30",
+            "Reorganizacion Societaria":"fila 31"
+        },
+ 
+        "CUENTAS POR COBRAR NETAS DE PROVISIONES": {},
+        
+
+        "RENDIMIENTOS POR COBRAR": {
+            "Disponible": "fila 34",
+            "Fondos Interbancarios": "fila 35",
+            "Inversiones": "fila 36",
+            "Creditos": "fila 37",
+            "Cuentas por Cobrar": "fila 38"
+        },
+
+        "BIENES REALIZABLES RECIBIDOS EN PAGO ADJUDICADOS Y FUERA DE USO NETOS": {},
+        
+        "INMUEBLE MOBILIARIO Y EQUIPO NETO": {},
+        "ACTIVO FIJO NETO DE DEPRECIACION": {},
+
+        "OTROS ACTIVOS": {},
+
+        "TOTAL ACTIVO": {},
+        "T O T A L A C T I V O": {},
+
+        "CONTINGENTES DEUDORAS": {},
+        
+        "CUENTAS DE ORDEN DEUDORAS": {},
+        
+        "CONTRACUENTA DE CUENTAS DE ORDEN ACREEDORAS": {},
+
+        "FIDEICOMISOS Y COMISIONES DE CONFIANZA DEUDORAS": {},
+        "FEDEICOMISOS Y COMISIONES DE CONFIANZA DEUDORAS": {}
+    },
+    "PASIVO": {
+        "OBLIGACIONES CON EL PUBLICO": {
+            "Depositos a la vista": "fila 48",
+            "Depositos a la Vista": "fila 48",
+
+            "Depositos de Ahorros": "fila 49",
+            "Depositos de Ahorro": "fila 49",
+            
+            "Depositos a Plazo": "fila 50",
+
+            "Certificados bancarios y de deposito": "fila 51",
+            "Certificados Bancarios y de Depositos": "fila 51",
+
+            "Cuentas a Plazo": "fila 52"
+        },
+        "CTS": {
+            "Otros": "fila 54",
+            "Depositos Restringidos": "fila 55",
+            "Otras Obligaciones": "fila 56",
+            "A la Vista": "fila 57",
+            "Relacionadas con Inversiones Negociables y a Vencimiento": "fila 58",
+            "Relacionadas con Inversiones": "fila 58"
+        },
+        "DEPOSITOS DEL SISTEMA FINANCIERO Y ORGANISMOS INTERNACIONALES": {
+            "Depositos a la vista":"fila 60",
+            "Depositos de Ahorros": "fila 61",
+            "Depositos de Ahorro": "fila 61",
+            "Depositos a Plazo": "fila 62"
+        },
+
+        "FONDOS INTERBANCARIOS": {},
+        "ADEUDOS Y OBLIGACIONES FINANCIERAS": {
+            "Instituciones Financieras del Pais": "fila 65",
+            "Instituciones del Pais": "fila 65",
+
+            "Empresas del Exterior y Organismos Internacionales": "fila 66",
+            "Instituciones del Exterior y Organismos Internacionales": "fila 66"
+        },
+        "OBLIGACIONES EN CIRCULACION NO SUBORDINADAS": {
+            "Bonos de Arrendamiento Financiero": "fila 68",
+            "Instrumentos Hipotecarios": "fila 69",
+            "Otros Instrumentos de Deuda": "fila 70"
+        },
+        "CUENTAS POR PAGAR": {},
+        "INTERESES Y OTROS GASTOS POR PAGAR": {
+            "Obligaciones con el Publico": "fila 73",
+            "Depositos del Sistema Financiero y Organismos Internacionales": "fila 74",
+            "Fondos Interbancarios": "fila 75",
+            "Adeudos y Obligaciones Financieras": "fila 76",
+            "Obligaciones en Circulacion no Subordinadas": "fila 77",
+            "Cuentas por Pagar": "fila 78"
+        },
+
+        "OTROS PASIVOS": {},
+       
+        "PROVISIONES": {
+            "Creditos Indirectos": "fila 81",
+            "Otras Provisiones": "fila 82"
+        },
+        "OBLIGACIONES EN CIRCULACION SUBORDINADAS": {},
+        "TOTAL PASIVO": {},
+        "PATRIMONIO": {
+            "Capital Social": "fila 86",
+
+            "Capital Adicional y Ajustes al Patrimonio": "fila 87",
+            "Capital Adicional": "fila 87",
+            
+            "Reservas": "fila 88",
+            
+            "Ajustes al Patrimonio": "fila 89",
+            
+            "Resultados Acumulados": "fila 90",
+            
+            "Resultados Netos del Ejercicio": "fila 91",
+            "Resultado Neto del Ejercicio": "fila 91",
+            
+            "Resultados No Realizados": "fila 92"
+        },
+        "TOTAL PASIVO Y PATRIMONIO": {},
+        
+        "CONTINGENTES": {
+            "Avales Cartas Fianza Cartas de Credito y Aceptaciones Bancarias": "fila 95",
+            "Creditos Indirectos": "fila 95",
+            "Creditos Contingentes": "fila 95",
+
+            "Lineas de Credito no Utilizadas y Creditos Concedidos no Desembolsados": "fila 96",
+            "Lineas de Credito no Utilizadas y Creditos no Desembolsados": "fila 96",
+
+            "Instrumentos Financieros Derivados": "fila 97",
+
+            "Otras Cuentas Contingentes": "fila 98"
+        },
+ 
+
+        "CONTRACUENTA DE CUENTAS DE ORDEN DEUDORAS": {},
+        "CUENTAS DE ORDEN ACREEDORAS": {},
+        "FIDEICOMISOS Y COMISIONES DE CONFIANZA ACREEDORAS": {}
+
+
+
+
+
+    }
+}

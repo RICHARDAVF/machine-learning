@@ -1,0 +1,127 @@
+{
+    "ACTIVO": {
+        "MONEDA": {},
+        "DISPONIBLE": {
+            "CAJA": "fila 1",
+            "BANCOS Y CORRESPONSALES": "fila 2",
+            "CANJE": "fila 3",
+            "OTROS": "fila 4"
+        },
+        "FONDOS INTERBANCARIOS": {},
+        "INVERSIONES NETAS DE PROVISIONES E ING NO DEVENGADOS": {
+            "NEGOCIABLES PARA INTERMEDIACION FINANCIERA": "fila 5",
+            "NEGOCIABLES DISPONIBLES PARA LA VENTA": "fila 6",
+            "FINANCIERAS A VENCIMIENTO": "fila 7",
+            "PERMANENTES": "fila 8",
+            "PROVISIONES": "fila 9",
+            "INGRESOS POR COMPRAVENTA DE VALORES NO DEVENGADOS": "fila 10"
+        },
+        "CREDITOS NETOS DE PROVISIONES E ING NO DEVENGADOS": {
+            "VIGENTES": "fila 11",
+            "TARJETAS DE CREDITO": "fila 12",
+            "DESCUENTOS": "fila 13",
+            "FACTORING": "fila 14",
+            "PRESTAMOS": "fila 15",
+            "ARRENDAMIENTO FINANCIERO": "fila 16",
+            "HIPOTECARIOS PARA VIVIENDA": "fila 17",
+            "CREDITOS POR LIQUIDAR": "fila 18",
+            "OTROS": "fila 19",
+            "REFINANCIADOS Y REESTRUCTURADOS": "fila 20",
+            "ATRASADOS": "fila 21",
+            "VENCIDOS": "fila 22",
+            "EN COBRANZA JUDICIAL": "fila 23",
+            "PROVISIONES": "fila 24",
+            "INTERESES Y COMISIONES NO DEVENGADOS": "fila 25"
+        },
+        "CUENTAS POR COBRAR NETAS DE PROVISIONES": {},
+        "RENDIMIENTOS DEVENGADOS POR COBRAR": {
+            "DISPONIBLE": "fila 26",
+            "FONDOS INTERBANCARIOS": "fila 27",
+            "INVERSIONES": "fila 28",
+            "CREDITOS": "fila 29",
+            "CUENTAS POR COBRAR": "fila 30"
+        },
+        "BIENES REALIZABLES RECIBIDOS EN PAGO ADJUDICADOS Y FUERA DE USO NETOS": {},
+        "ACTIVO FIJO NETO DE DEPRECIACION": {},
+        "OTROS ACTIVOS": {},
+        "TOTAL ACTIVO": {},
+        "CONTINGENTES DEUDORAS": {},
+        "CUENTAS DE ORDEN DEUDORAS": {},
+        "CONTRACUENTA DE CUENTAS DE ORDEN ACREEDORAS": {},
+        "FIDEICOMISOS Y COMISIONES DE CONFIANZA DEUDORAS": {
+            "TIPO DE CAMBIO CONTABLE S": "fila 31"
+        },
+        "BALANCE GENERAL DE LAS EMPRESAS FINANCIERAS": {},
+        "AL DE ABRIL DE": {},
+        "EXPRESADO EN CFRAS AJUSTADAS POR INFLACION": {},
+        "EN MILES DE NUEVOS SOLES": {}
+    },
+    "PASIVO": {
+        "OBLIGACIONES CON EL PUBLICO": {
+            "DEPOSITOS A LA VISTA": "fila 32",
+            "DEPOSITOS DE AHORRO": "fila 33",
+            "DEPOSITOS A PLAZO": "fila 34",
+            "CERTIFICADOS BANCARIOS Y DE DEPOSITOS": "fila 35",
+            "CUENTAS A PLAZO": "fila 36"
+        },
+        "CTS": {
+            "OTROS": "fila 37",
+            "DEPOSITOS RESTRINGIDOS": "fila 38",
+            "OTRAS OBLIGACIONES": "fila 39",
+            "A LA VISTA": "fila 40",
+            "RELACIONADAS CON INVERSIONES": "fila 41"
+        },
+        "DEPOSITOS DEL SISTEMA FINANCIERO Y ORGANISMOS INTERNACIONALES": {
+            "DEPOSITOS A LA VISTA": "fila 42",
+            "DEPOSITOS DE AHORRO": "fila 43",
+            "DEPOSITOS A PLAZO": "fila 44"
+        },
+        "FONDOS INTERBANCARIOS": {},
+        "ADEUDOS Y OBLIGACIONES FINANCIERAS": {
+            "INSTITUCIONES DEL PAIS": "fila 45",
+            "INSTITUCIONES DEL EXTERIOR Y ORGANISMOS INTERNACIONALES": "fila 46"
+        },
+        "OBLIGACIONES EN CIRCULACION NO SUBORDINADAS": {
+            "BONOS DE ARRENDAMIENTO FINANCIERO": "fila 47",
+            "INSTRUMENTOS HIPOTECARIOS": "fila 48",
+            "OTROS INSTRUMENTOS DE DEUDA": "fila 49"
+        },
+        "CUENTAS POR PAGAR": {},
+        "INTERESES Y OTROS GASTOS POR PAGAR": {
+            "OBLIGACIONES CON EL PUBLICO": "fila 50",
+            "DEPOSITOS DEL SISTEMA FINANCIERO Y ORG INTERNACIONALES": "fila 51",
+            "FONDOS INTERBANCARIOS": "fila 52",
+            "ADEUDOS Y OBLIGACIONES FINANCIERAS": "fila 53",
+            "OBLIGACIONES EN CIRCULACION NO SUBORDINADAS": "fila 54",
+            "CUENTAS POR PAGAR": "fila 55"
+        },
+        "OTROS PASIVOS": {},
+        "PROVISIONES POR CREDITOS CONTINGENTES": {},
+        "OBLIGACIONES EN CIRCULACION SUBORDINADAS": {},
+        "TOTAL PASIVO": {},
+        "PATRIMONIO": {
+            "CAPITAL SOCIAL": "fila 56",
+            "CAPITAL ADICIONAL Y AJUSTES AL PATRIMONIO": "fila 57",
+            "RESERVAS": "fila 58",
+            "RESULTADOS ACUMULADOS": "fila 59",
+            "RESULTADO NETO DEL EJERCICIO": "fila 60"
+        },
+        "TOTAL PASIVO Y PATRIMONIO": {},
+        "CONTINGENTES ACREEDORAS": {
+            "CREDITOS INDIRECTOS": "fila 61",
+            "LINEAS DE CREDITO NO UTILIZADAS Y CREDITOS CONCEDIDOS NO DESEMBOLSADOS": "fila 62",
+            "INSTRUMENTOS FINANCIEROS DERIVADOS": "fila 63",
+            "OTRAS CUENTAS CONTINGENTES": "fila 64"
+        },
+        "CONTRACUENTA DE CUENTAS DE ORDEN DEUDORAS": {},
+        "CUENTAS DE ORDEN ACREEDORAS": {},
+        "FIDEICOMISOS Y COMISIONES DE CONFIANZA ACREEDORAS": {
+            "TIPO DE CAMBIO CONTABLE S": "fila 65",
+            "INCLUYE GASTOS DEVENGADOS POR PAGAR": "fila 66"
+        },
+        "ESTADO DE GANANCIAS Y PERDIDAS DE LAS EMPRESAS FINANCIERAS": {},
+        "AL DE ABRIL DE": {},
+        "EXPRESADO EN CFRAS AJUSTADAS POR INFLACION": {},
+        "EN MILES DE NUEVOS SOLES": {}
+    }
+}
